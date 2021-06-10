@@ -1,4 +1,4 @@
-# I tried typescript and here is my todo list i made with no css
+# I tried typescript and here is my todo list I made with no css
 
 #### Options
 
